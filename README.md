@@ -2,11 +2,21 @@
 
 # 👋 Hello, I'm M Lalith Kumar
 
-### Full Stack Developer | Cloud Enthusiast | Open Source Contributor
+### Cloud Enthusiast | Open Source Contributor
 
-[![GitHub followers](https://img.shields.io/github/followers/Lalith-47?style=for-the-badge&logo=github)](https://github.com/Lalith-47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lalithkumarm143/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://lalith.live)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalithkumarm143/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://lalith.live">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lalith-47">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -15,6 +25,7 @@
 ## 🚀 About Me
 
 I'm a passionate developer who loves building scalable applications and exploring new technologies. With expertise spanning frontend, backend, and cloud infrastructure, I thrive on solving complex problems and creating meaningful digital experiences.
+
 
 - 🔭 Currently working on innovative web applications
 - 🌱 Always learning and expanding my tech stack
@@ -85,28 +96,19 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lalith-47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith-47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lalith-47&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
-
-</div>
-
----
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-[![AdhyayanMarg WebStack](https://github-readme-stats.vercel.app/api/pin/?username=Lalith-47&repo=AdhyayanMarg_WebStack&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)](https://github.com/Lalith-47/AdhyayanMarg_WebStack)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Lalith-47&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)](https://github.com/Lalith-47/portfolio)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Lalith-47/AdhyayanMarg_WebStack">
+    <img src="https://img.shields.io/badge/📚_AdhyayanMarg_WebStack-View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="AdhyayanMarg WebStack" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Lalith-47/portfolio">
+    <img src="https://img.shields.io/badge/💼_Portfolio-View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -114,30 +116,25 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 <p align="center">
   <a href="mailto:Lalith22p3347@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lalithkumarm143/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://lalith.live">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="Portfolio" />
   </a>
-</p>
-<p align="center">
-  <a href="mailto:Lalith22p3347@gmail.com"><strong>Email</strong></a> • 
-  <a href="https://www.linkedin.com/in/lalithkumarm143/"><strong>LinkedIn</strong></a> • 
-  <a href="https://lalith.live"><strong>Portfolio</strong></a>
 </p>
 
 ---
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *"In programming, there are no mistakes — just unexpected learning experiences.**
 
 ### 👀 Profile Views
 
