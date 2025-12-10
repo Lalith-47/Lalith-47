@@ -35,6 +35,19 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ## ⚙️ Technologies & Tools
 
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+</p>
+<p align="center">
+  <strong>C</strong> • <strong>C++</strong> • <strong>Java</strong> • <strong>Python</strong> • <strong>JavaScript</strong>
+</p>
+
 ### 🎨 Frontend Development
 
 <p align="center">
@@ -44,17 +57,6 @@ I'm a passionate developer who loves building scalable applications and explorin
 </p>
 <p align="center">
   <strong>HTML</strong> • <strong>CSS</strong> • <strong>JavaScript</strong>
-</p>
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-</p>
-<p align="center">
-  <strong>Python (Basics)</strong> • <strong>Java (Basics)</strong> • <strong>Bash Scripting</strong>
 </p>
 
 ### 🧠 Backend Development
@@ -67,28 +69,39 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>Node.js</strong> • <strong>Express.js</strong>
 </p>
 
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+</p>
+<p align="center">
+  <strong>MySQL</strong> • <strong>MongoDB</strong>
+</p>
+
 ### 🛠️ Tools & Version Control
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  
 </p>
 <p align="center">
-  <strong>Git</strong> • <strong>GitHub</strong> • <strong>VS Code</strong>
+  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Bash</strong> • <strong>VS Code</strong>
 </p>
 
-### 🐧 Operating Systems & Remote Access
+### 🐧 Operating Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="Linux Mint" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ssh" height="40" alt="SSH" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="Linux Mint" />
 </p>
 <p align="center">
-  <strong>Linux</strong> • <strong>Arch Linux</strong> • <strong>Ubuntu</strong> • <strong>Linux Mint</strong> • <strong>SSH</strong>
+  <strong>Linux</strong> • <strong>Arch Linux</strong> • <strong>Ubuntu</strong> • <strong>Linux Mint</strong>
 </p>
 
 ### ☁️ Cloud & DevOps
