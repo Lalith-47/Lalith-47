@@ -26,7 +26,6 @@
 
 I'm a passionate developer who loves building scalable applications and exploring new technologies. With expertise spanning frontend, backend, and cloud infrastructure, I thrive on solving complex problems and creating meaningful digital experiences.
 
-
 - 🔭 Currently working on innovative web applications
 - 🌱 Always learning and expanding my tech stack
 - 💡 Interested in cloud architecture, DevOps, and system design
@@ -47,16 +46,25 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>HTML</strong> • <strong>CSS</strong> • <strong>JavaScript</strong>
 </p>
 
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+</p>
+<p align="center">
+  <strong>Python (Basics)</strong> • <strong>Java (Basics)</strong> • <strong>Bash Scripting</strong>
+</p>
+
 ### 🧠 Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
 </p>
 <p align="center">
-  <strong>Node.js</strong> • <strong>Express.js</strong> • <strong>Python</strong> • <strong>Java</strong>
+  <strong>Node.js</strong> • <strong>Express.js</strong>
 </p>
 
 ### 🛠️ Tools & Version Control
@@ -64,23 +72,23 @@ I'm a passionate developer who loves building scalable applications and explorin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 </p>
 <p align="center">
-  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Bash</strong> • <strong>VS Code</strong>
+  <strong>Git</strong> • <strong>GitHub</strong> • <strong>VS Code</strong>
 </p>
 
-### 🐧 Operating Systems
+### 🐧 Operating Systems & Remote Access
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="Linux Mint" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="Linux Mint" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ssh" height="40" alt="SSH" />
 </p>
 <p align="center">
-  <strong>Linux</strong> • <strong>Arch Linux</strong> • <strong>Ubuntu</strong> • <strong>Linux Mint</strong>
+  <strong>Linux</strong> • <strong>Arch Linux</strong> • <strong>Ubuntu</strong> • <strong>Linux Mint</strong> • <strong>SSH</strong>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -95,8 +103,6 @@ I'm a passionate developer who loves building scalable applications and explorin
 </p>
 
 ---
-
-
 
 ## 🏆 Featured Projects
 
@@ -134,7 +140,7 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ### 💭 Quote
 
-> *"In programming, there are no mistakes — just unexpected learning experiences.**
+> _"In programming, there are no mistakes — just unexpected learning experiences."_
 
 ### 👀 Profile Views
 
