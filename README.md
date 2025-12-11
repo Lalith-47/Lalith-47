@@ -86,12 +86,26 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub CLI" />
+</p>
+<p align="center">
+  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Bash</strong> • <strong>VS Code</strong>• <strong>GitHub CLI</strong>
+</p>
+
+### 📦 Package Managers
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="40" alt="Winget" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/chocolatey/80B5E3" height="40" alt="Chocolatey" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="APT" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Paru" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Yay" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Pacman" />&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 <p align="center">
-  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Bash</strong> • <strong>VS Code</strong>
-</p>
-
+  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>Paru</strong> • <strong>APT</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
+</p>  
 ### 🐧 Operating Systems
 
 <p align="center">
