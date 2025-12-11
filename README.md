@@ -104,7 +104,7 @@ I'm a passionate developer who loves building scalable applications and explorin
   
 </p>
 <p align="center">
-  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>Paru</strong> • <strong>APT</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
+  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>APT</strong> • <strong>Paru</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
 </p>  
 ### 🐧 Operating Systems
 
