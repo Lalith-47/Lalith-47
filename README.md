@@ -131,6 +131,56 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>MySQL</strong> • <strong>MongoDB</strong>
 </p>
 
+### 🛠️ Tools & Version Control
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub CLI" />
+</p>
+<p align="center">
+  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Bash</strong> • <strong>VS Code</strong>• <strong>GitHub CLI</strong>
+</p>
+
+### 📦 Package Managers
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="40" alt="Winget" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/chocolatey/80B5E3" height="40" alt="Chocolatey" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="APT" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Paru" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Yay" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Pacman" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+<p align="center">
+  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>Paru</strong> • <strong>APT</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
+</p>  
+### 🐧 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="Linux Mint" />
+</p>
+<p align="center">
+  <strong>Linux</strong> • <strong>Arch Linux</strong> • <strong>Ubuntu</strong> • <strong>Linux Mint</strong>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+</p>
+<p align="center">
+  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong>
+</p>
+
 ---
 
 ## 🏆 Featured Projects
