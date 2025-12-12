@@ -62,15 +62,15 @@ I'm a passionate developer who loves building scalable applications and explorin
 ### 🛠️ Tools & Version Control
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <strong>Git</strong> • <strong>GitHub</strong> • <strong>GitHub Actions</strong> • <strong>Bash</strong> • <strong>VS Code</strong> • <strong>n8n</strong>
+  <strong>n8n</strong> • <strong>GitHub Actions</strong> • <strong>VS Code</strong> • <strong>Bash</strong> • <strong>Github</strong> • <strong>Git</strong>
 </p>
 
 ### 🐧 Operating Systems
@@ -101,25 +101,17 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>APT</strong> • <strong>Paru</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-</p>
-<p align="center">
-  <strong>HTML</strong> • <strong>CSS</strong> • <strong>JavaScript</strong>
-</p>
-
-### 🧠 Backend Development
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <strong>Node.js</strong> • <strong>Express.js</strong>
+  <strong>HTML</strong> • <strong>CSS</strong> • <strong>JavaScript</strong> • <strong>Node.js</strong> • <strong>Express.js</strong>
 </p>
 
 ### 🗄️ Databases
@@ -130,17 +122,6 @@ I'm a passionate developer who loves building scalable applications and explorin
 </p>
 <p align="center">
   <strong>MySQL</strong> • <strong>MongoDB</strong>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-</p>
-<p align="center">
-  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong>
 </p>
 
 ---
