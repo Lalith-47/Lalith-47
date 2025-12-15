@@ -1,6 +1,6 @@
-<div align="center"> 
+<div align="center">
 
-# 👋 Hello, I'm M Lalith Kumar
+# 👋 Hello, I'm Lalith Kumar
 
 ### Cloud Enthusiast | Open Source Contributor
 
