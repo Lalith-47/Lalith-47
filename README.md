@@ -55,11 +55,13 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="JWT" />&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/idnue19GGN/w/400/h/400/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Doppler" style="border-radius: 8px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="JWT" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="center">
-  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong> • <strong>GitLab</strong> •<strong>JWT (JSON Web Tokens)</strong> 
+  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong> • <strong>GitLab</strong> • <strong>Doppler</strong> • <strong>JWT</strong>
 </p>
 
 ### 🛠️ Tools & Version Control
@@ -101,7 +103,7 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Pacman" />
 </p>
 <p align="center">
-  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>APT</strong> • <strong>Paru</strong> • <strong>Yay</strong> • <strong>Pacman</strong> 
+  <strong>Winget</strong> • <strong>Chocolatey</strong> • <strong>APT</strong> • <strong>Paru</strong> • <strong>Yay</strong> • <strong>Pacman</strong>
 </p>
 
 ### 🎨 Frontend & Backend Development
