@@ -64,19 +64,19 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong> • <strong>GitLab</strong> • <strong>Doppler</strong> • <strong>JWT</strong>
 </p>
 
-### 🛠️ Tools & Version Control
+### 🛠️ Tools & Version control
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab CI/CD" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+
 </p>
 <p align="center">
-  <strong>n8n</strong> • <strong>GitHub Actions</strong> • <strong>GitLab CI/CD</strong> • <strong>VS Code</strong> • <strong>Bash</strong> • <strong>Github</strong> • <strong>Git</strong>
+  <strong>n8n</strong> • <strong>GitHub Actions</strong> • <strong>Neovim</strong>  • <strong>GitLab CI/CD</strong> • <strong>VS Code</strong> • <strong>Bash</strong>
 </p>
 
 ### 🐧 Operating Systems
