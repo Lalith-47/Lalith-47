@@ -49,19 +49,30 @@ I'm a passionate developer who loves building scalable applications and explorin
   <strong>C</strong> • <strong>C++</strong> • <strong>Java</strong> • <strong>Python</strong> • <strong>JavaScript</strong> • <strong>YAML</strong>
 </p>
 
-### ☁️ Cloud , DevOps & Security
+### ☁️ Cloud Platforms and Security
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
   <img src="https://cdn.brandfetch.io/idnue19GGN/w/400/h/400/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Doppler" style="border-radius: 8px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="40" alt="JWT" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="40" alt="JWT" />
 </p>
 
 <p align="center">
-  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Docker</strong> • <strong>GitLab</strong> • <strong>Doppler</strong> • <strong>JWT</strong>
+  <strong>AWS</strong> • <strong>Azure</strong> • <strong>Doppler</strong> • <strong>JWT</strong>
+</p>
+
+### 🚀 DevOps & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" />
+</p>
+
+<p align="center">
+  <strong>Docker</strong> • <strong>GitLab</strong> • <strong>Grafana</strong> • <strong>Prometheus</strong>
 </p>
 
 ### 🛠️ Tools & Version control
